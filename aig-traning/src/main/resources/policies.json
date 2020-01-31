@@ -1,0 +1,46 @@
+[
+	{
+		"_class": "com.aig.commercial.training.policyrs.model.Policy",
+		"id": 1,
+		"customerId": 1,
+		"policyName": "Policy 1 for Apple",
+		"coverageLimit": 1000000,
+		"coverageType": "ALL",
+		"attributes": {
+			"attribute1": "value1",
+			"attribute2": "value2",
+			"attribute3": "value3"
+		}
+	},
+	{
+		"_class": "com.aig.commercial.training.policyrs.model.Policy",
+		"id": 2,
+		"customerId": 1,
+		"policyName": "Policy 2 for Apple",
+		"coverageLimit": 500000,
+		"coverageType": "SOME",
+		"attributes": {
+			"Department": "iOS"
+		}
+	},
+	{
+		"_class": "com.aig.commercial.training.policyrs.model.Policy",
+		"id": 3,
+		"customerId": 2,
+		"policyName": "Policy 1 for Fedex",
+		"coverageLimit": 2000,
+		"coverageType": "LITTLE"
+	},
+	{
+		"_class": "com.aig.commercial.training.policyrs.model.Policy",
+		"id": 4,
+		"customerId": 4,
+		"policyName": "Policy 1 for Dell",
+		"coverageLimit": 10000000,
+		"coverageType": "ALL",
+		"attributes": {
+			"division": "EMC",
+			"sub-division": "middle managers"
+		}
+	}
+]
