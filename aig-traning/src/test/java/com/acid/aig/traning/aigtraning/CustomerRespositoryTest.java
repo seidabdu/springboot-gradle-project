@@ -1,4 +1,4 @@
-package com.aig.traning.aigtraning;
+package com.acid.aig.traning.aigtraning;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
